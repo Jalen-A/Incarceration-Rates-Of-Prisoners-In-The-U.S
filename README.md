@@ -1,6 +1,6 @@
 <h1>Incarceration Rates Of Prisoners In The U.S</h1>
 
- ### [Potential Yt Demonstration]()
+ ### []()
 
 <h2>Description</h2>
 This project involves analyzing disparities in incarceration rates by race, particularly focusing on drug possession charges. It includes visual data chart comparisons generated from Python, aiming to answer questions about the percentage of sentenced prisoners by race, the distribution of sentenced male prisoners by race, and the percentage of incarcerated individuals with drug charges across different racial groups. The research also seeks to identify any correlations between drug charge sentencing and racial demographics in the prison system.
